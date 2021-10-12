@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=TestDeCharge
+project.version=8.3
+project.original.version=8.1
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=7.11.1
+product.original.version=7.6.0
+project.id=f9bbfa9e-ccac-4a30-85dd-1598d65084cb
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
+project.is-open-test-settings-after-upload=true

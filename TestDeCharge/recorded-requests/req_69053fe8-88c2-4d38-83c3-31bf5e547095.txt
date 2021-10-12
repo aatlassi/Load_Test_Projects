@@ -1,0 +1,12 @@
+GET http://practice.neotys.com/resources/images/logo-neotys.png HTTP/1.1
+Host: practice.neotys.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:87.0) Gecko/20100101 Firefox/87.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Authorization: Basic bGVhcm5lcjpuM290eXM=
+Connection: keep-alive
+Referer: http://practice.neotys.com/
+DNT: 1
+Sec-GPC: 1
+
